@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nero-Wf, a PhD Student in the EU
-- 👀 I’m interested in machine learning and automation/optimization of real-world processes
-- 🌱 I’m currently learning about Reinforcement Learning and machine learning model development
+- 👋 Hi, I’m @Nero-Wf, a PhD Student from the EU
+- 👀 I’m interested in the automation/optimization of real-world (chemical) processes
+- 🌱 I’m currently learning about image processing and optimimization algorithm benchmarking
 
 
 <!---
