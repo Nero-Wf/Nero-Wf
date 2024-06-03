@@ -1,9 +1,9 @@
-PhD Student in the field of Chemical and Process Engineering from Austria
+PostDoc researcher in the field of Chemical and Process Engineering
 
 I’m interested in the automation/optimization of real-world (chemical) processes.
 This includes topics like laboratory equipment communication, GUI development, Bayesian optimization, Gaussian Processes, image and particle analysis, and more!
 
-I’m currently learning about image processing, optimimization algorithm benchmarking and deep reinforcement learning
+I’m currently learning about the automation of high throughput experimentation!
 
 
 <!---
